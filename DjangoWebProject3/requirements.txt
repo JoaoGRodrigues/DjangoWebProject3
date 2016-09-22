@@ -1,1 +1,15 @@
-django >=1.9, <2
+Django==1.10.1 <2
+astroid==1.4.8
+backports.functools-lru-cache==1.2.1
+colorama==0.3.7
+configparser==3.5.0
+DateTime==4.1.1
+isort==4.2.5
+lazy-object-proxy==1.2.2
+mccabe==0.5.2
+pylint==1.6.4
+pytz==2016.6.1
+six==1.10.0
+virtualenv==12.1.1
+wrapt==1.10.8
+zope.interface==4.3.2
